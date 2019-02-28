@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "leancloud-realtime": "^4.2.1",
+    "leancloud-storage": "^3.11.1",
     "vue": "^2.6.6"
   },
   "devDependencies": {
